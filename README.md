@@ -1,2 +1,2 @@
-# Choropleth-Maps---Dash-Python
+# Choropleth-Maps--Dash-Python
 Creating colormaped representations in Python.
